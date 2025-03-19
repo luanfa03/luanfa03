@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="[![image](https://github.com/user-attachments/assets/63380027-5bf2-4fe2-9f0e-162f66d12906)](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -34,7 +30,11 @@
 ###
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)]([https://www.linkedin.com/in/luanfonseca/](https://www.linkedin.com/in/luan-fonseca-amaral-a610b0266/)]
+<div align="left">
+  <a href="[https://www.linkedin.com/in/luanfonseca/](https://www.linkedin.com/in/luan-fonseca-amaral-a610b0266/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+</div>
 
 ###
 
