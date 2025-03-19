@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="![image](https://github.com/user-attachments/assets/63380027-5bf2-4fe2-9f0e-162f66d12906)
-"  />
+<img align="right" height="150" src="[![image](https://github.com/user-attachments/assets/63380027-5bf2-4fe2-9f0e-162f66d12906)](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)"  />
 
 ###
 
